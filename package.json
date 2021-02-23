@@ -1,0 +1,19 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Trillo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhijannat/Trillo-booking-app-SCSS.git"
+  },
+  "author": "Akhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhijannat/Trillo-booking-app-SCSS/issues"
+  },
+  "homepage": "https://github.com/akhijannat/Trillo-booking-app-SCSS#readme"
+}
